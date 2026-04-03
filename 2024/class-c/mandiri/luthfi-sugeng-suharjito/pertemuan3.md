@@ -18,3 +18,10 @@ Dalam buku Simulacra et Simulation karya Baudrillard, McLuhan meramalkan adanya 
 ## Kesimpulan 
 
 Hiperrealitas dipopulerkan oleh seorang pakar budaya, sosiolog sekaligus filsuf asal Prancis Jean Baudrillard pada tahun 1980-an. Baudrillard lahir pada tanggal 27 juli 1929 di kota Riems, Perancis barat dan merupakan salah satu pencetus teori postmodernisme di era 1970-an. Konsep pemikiran Baudrillard yang paling populer berkaitan mengenai hiperrealitas dan simulasi. Meskipun teori mengenai hiperrealitas dipopulerkan oleh Baudrillard namun pencetus istilah hiperrealitas untuk pertama kalinya ialah Herbert Marshall McLuhan yang merupakan seorang ilmuwan sekaligus kritikus asal Edmonton, Kanada. Mcl uhan menuliskan buku berjudul The Gutenberg Galaxy: The Making of Typographic Man (1962) dan Understanding Media: The Extension of Man (1964) yang membahas mengenai perilaku masyarakat hiperrealitas dan meramalkan akan adanya peralihan fungsi teknologi dimasa mendatang. Oleh karena itu hiperrealitas merupakan hal yang penting dalam kehidupan sehari - hari, sebagai mahasiswa kita harus melek akan pengertian maupun contoh yang ada.
+
+## Daftar Pustaka
+Hidayat, M. A. (2019). Menimbang teori-teori sosial Postmodern: Sejarah, pemikiran, kritik dan masa depan Postmodernisme. Journal of Urban Sociology, 2(1), 42. https://doi.org/10.30742/jus.v2i1.610
+
+Baudrillard J. (1981). Shoulacra and simulation (S faria Glaser (ed.)). The University of Michigan Press
+
+Talita Iska Amalia Racmadani. (2022) Hubungan Antara Hiperreealitas Dengan Perilaku Konsumtif Pada Generasi Millenial
