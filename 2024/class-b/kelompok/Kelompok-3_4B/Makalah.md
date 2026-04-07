@@ -59,8 +59,8 @@ Adapun tujuan penulisan makalah ini adalah:
 5. Untuk memberikan analisis mendalam mengenai kaitan antara kode sumber dan ideologi, dalam perspektif ekonomi-politik (Smith, Keynes, Marx, Berlin).
 6. Untuk - Menganalisis hubungan antara kode sumber terbuka dan tertutup dengan ideologi
 
-## 2. PEMBAHASAN
-### 2.1 Pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang
+# 2. PEMBAHASAN
+## 2.1 Pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang
 Dalam Das Kapital, Marx menegaskan bahwa negara bukanlah entitas netral,
 melainkan instrumen kelas berkuasa untuk menjaga sistem produksi kapitalis.
 Kutipan Marx yang terkenal menyebutkan: 
@@ -79,7 +79,14 @@ Negara sejak 1960-an bukan netral, tapi jadi alat kelas berkuasa. teknologi
 diarahkan untuk mendukung kepentingan kapitalisme, misalnya lewat riset dan infrastruktur.
 jadi hubungan negara dan teknologi itu negara menjaga agar teknologi tetap meunguntungkan pemilik modal.
 
-### 2.5  Analisis mendalam mengenai kaitan antara kode sumber dan ideologi, dalam perspektif ekonomi-politik (Smith, Keynes, Marx, Berlin).
+## 2.3 Implementasi dan Kontribusi Hacking Culture dalam Tkenologi Modern
+Jika kita melihat sejarah yang di catat oleh Leslie Berlin dalam buku *troublemakers*, istilah "peretasan" atau *hacking* memiliki makna yang jauh dari makna negatif kriminalitas siber saat ini. Di Silicon Valley era 1970-an *hacking culture adalah sebuah semangat untuk membongkar, memahami,dan menyusun kembali teknologi agar berfungsi lebih baik atau lebih menyenangkan.
+
+Salah satu contoh nyata dalam buku ini adalah kisah Al Alcorn saat merancang *Pong* di atari. Alcorn menunjukkan bahwa *hacking* adalah tentang kreativitas di tengah keterbatasan. Ia tidak menunggu intruksi manual yang rumit, justru ia "meretas" fungsi telivisi yang saat itu hanya menjad alat pasif untuk menonton berita, menjadi alat yang interaktif untuk bermain *game*. Begitu juga dengan tim di Xerox PARC di bawah arahan Bob Taylor. Mereka menolak cara lama dalam mengoperasikan komputer yang kaku dan berbasis teks. Dengan budaya *hacking* yang mengedepankan eksperimen, mereka berhasil menciptakan *mouse* dan "*GUI*" *Graphical User Interface* (ikon dan jendela) yang kita gunakan hingga hari ini.
+
+Kontribusi terbesar dari budaya ini bagi teknologi modern adalah humanisasi teknologi. Tanpa para *troublemakers* yang berani "menggulik" aturan-aturan lama, komputer mungkin masih menjadi mesin raksasa yang hanya di pahami oleh ilmuwan militer. Budaya *hacking* mengajarkan kita bahwa teknologi harus fleksibel dan fokus pada pengalaman penggunanya "*UX*" *User Experience*. Semangat bergerak cepat dan mencoba hal baru yang menjadi standar *startup* saat ini adalah warisan langsung dari budaya peretasan di masa wal Silicon Valley.
+
+## 2.5  Sikap Terhadap Kode Sumber Terbuka atau Kode Sumber Tertutup.
 Marx menekankan bahwa kepemilikan alat produksi menentukan relasi sosial.
 dalam konteks digital, kode sumber dapat dipandang sebagai "alat produksi baru"
 yang menentukan siapa yang berhak mengakses, mengubah, dan memanfaatkanya.
@@ -96,7 +103,7 @@ Open source berarti kode dibuka, bisa dipakai dan dikembangkan bersama.
 Closed source berarti kode ditutup, hanya pemilik modal yang bisa kontrol dan ambil untung.
 
 
-### 2.6 Hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi.
+### 2.6 Hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi
 Marx menjelaskan bahwa ideologi adalah bentuk "kesadaran palsu" yang
 menutupi relasi produksi sebenarnya. Kutipan Marx :
 “In the social production of their existence, men inevitably enter into definite relations, which are independent of their will.” (Preface to A Contribution to the Critique of Political Economy)
