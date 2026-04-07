@@ -60,6 +60,11 @@ Adapun tujuan penulisan makalah ini adalah:
 5. Untuk memberikan analisis mendalam mengenai kaitan antara kode sumber dan ideologi, dalam perspektif ekonomi-politik (Smith, Keynes, Marx, Berlin).
 6. Untuk - Menganalisis hubungan antara kode sumber terbuka dan tertutup dengan ideologi
 
+## 1.4 Manfaat
+- Memberikan gambaran bahwa teknologi modern tidak lahir dari ruang hampa, melaikan hasil dari budaya yang kreatif (*hacking culture*) yang mendobrak aturan lama.
+- Memberikan inspirasi bagi pembaca bahwa untuk menciptakan perubahan, diperlukan keberanian untuk menjadi *troublemaker* dalam arti yang positif.
+- Membantu pembaca memahami perdebatan antara kode sumber terbuka (*Open source*) dan tertutup (*closed source*).
+
 # 2. PEMBAHASAN
 
 ## 2.1 Pola Hubungan Antara Negara dan Teknologi Pada Rentang Tahun 1960-Sekarang
