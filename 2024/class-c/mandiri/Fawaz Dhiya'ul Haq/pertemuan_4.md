@@ -15,5 +15,8 @@ Marx menjelaskan selama kepemilikan pribadi atas alat produksi ini masih ada, ma
 ## **Kesimpulan**
 Oelh karena itu, Marx menolak kepemilikan pribadi karena dianggap menjadi sumber utama eksploitasi melalui mekanisme nilai lebih. Kepemilikan pribadi ini juga memungkinkan kapitalis menguasai alat produksi dan mengambil keuntungan dari kerja pekerja, yang pada akhirnya menciptakan ketimpangan sosial. Maka diperlukannya pengahapusan kepemilikan pribadi ini utuk menciptakan masyarakat yang adil dan setara.
 
+# **Daftar Pustaka**
+Marx, Karl. (1867/2015). Capital: A Critique of Political Economy (Vol. 1).
+
 
 
