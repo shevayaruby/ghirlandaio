@@ -14,7 +14,10 @@ Hingga pada pertengahan 1970 an makulla memutuskan untuk pindah tempat kerja men
 *Stanford memutuskan semua hubungan dengan SRI pada tahun 1970, meskipun langkah tersebut tidak banyak mengurangi penelitian terkait pertahanan di institut tersebut. Protes p ad a 16 Mei terjadi setelah pengumuman Stanford bahwa SRI akan dijual; para demonstran mendesak pendirian “pusat penelitian perdamaian,” yang dikelola bersama oleh Stanford dan SRI, yang akan “menghentikan semua penelitian rahasia dan terklasifikasi” serta kontrak apa pun yang memerlukan izin keamanan. Penjualan te r sebu tberarti Stanford kehilangan kendali penuh atas penelitian di SRI.
 ### **Sebutkan 2 mekanisme baru yang muncul pada 1970-an yang mendorong komersialisasi teknologi!**
 Pertama, modal ventura modern yang dipelopori Don Valentine (Sequoia Capital) dan Kleiner & Perkins, yang menciptakan pola pendanaan berkelanjutan di mana pengusaha sukses mendanai dan membimbing generasi berikutnya. Kedua, transfer teknologi universitas melalui Kantor Lisensi Teknologi Stanford yang aktif mematenkan dan memasarkan inovasi kampus
+
 ---
+## **Kesimpulan** 
+Jadi munculnya komersialisasi teknologi di tahun 1970 an tidak lepas dari 2 model yaitu yang menciptakan pola pendanaan berkelanjutan di mana pengusaha sukses mendanai dan membimbing generasi berikutnya dan transfer teknologi universitas melalui Kantor Lisensi Teknologi Stanford yang aktif mematenkan dan memasarkan inovasi kampus. Karena keduanya saling berhubungan.
 
 
 
