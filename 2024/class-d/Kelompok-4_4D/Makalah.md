@@ -87,16 +87,9 @@ Berdasarkan data metrik keamanan siber, setiap subsistem di perpustakaan memilik
    
 b. Analisis Kerentanan Faktor Manusia (Human Vulnerability Score - HVS)
 Data historis secara konsisten menempatkan manusia sebagai titik lemah utama. Berdasarkan peran pengguna, tingkat kerentanannya adalah :
-1. Pengunjung/Pengguna Umum (0,7): Menunjukkan tingkat kerentanan tertinggi akibat manajemen kata sandi yang buruk dan kurangnya literasi digital keamanan
-2. Staf Perpustakaan (0,5): Memiliki risiko sedang karena masih rentan terhadap serangan rekayasa sosial atau phishing
-3. Administrator TI (0,3): Memiliki risiko terendah karena mendapatkan pelatihan yang lebih baik dan tunduk pada kontrol akses yang ketat
-
-c. Pembelajaran dari Insiden Historis Global
-Lembaga informasi harus belajar dari kegagalan keamanan di masa lalu:
-1. WannaCry dan NotPetya (2017): Serangan ini membuktikan bahwa kegagalan manajemen pembaruan (patching) adalah risiko fatal. Banyak organisasi lumpuh bukan karena kecanggihan serangan, melainkan karena mengabaikan pembaruan sistem dasar untuk celah yang sebenarnya sudah diketahui
-2. Botnet Mirai (2016): Menunjukkan risiko dari perangkat Internet of Things (IoT) seperti kamera IP atau router yang menggunakan kata sandi bawaan (default), sehingga mudah diambil alih untuk melancarkan serangan besar
-3. Ancaman Persisten Tingkat Lanjut (APT): Data menunjukkan risiko jangka panjang bagi jaringan pendidikan dan arsip digital, di mana penyerang dapat tetap berada di dalam sistem selama bertahun-tahun tanpa terdeteksi melalui backdoor
-
+1. Pengunjung/Pengguna Umum : Akibat manajemen kata sandi yang buruk dan kurangnya literasi digital keamanan
+2. Staf Perpustakaan : Karena masih rentan terhadap serangan rekayasa sosial atau phishing
+3. Administrator TI : Karena mendapatkan pelatihan yang lebih baik dan tunduk pada kontrol akses yang ketat
 
 ## 2.5 Vektor dasar keamanan siber bagi Perpustakaan atau Arsip digital
 Vektor keamanan siber bagi perpustakaan digital atau arsip digital mengacu kepada saranan yang digunakan oleng ancaman siber tersebut, untuk pertahanan sistem informasi dan merusak aset digital.
