@@ -3,7 +3,7 @@
 ## Dosen Pengampu  : Al Muhdil Karim S.IP., M.Hum.
 ## Disusun Oleh : Kelompok 4 (4D)
 1. Ahmad yasik hayes: 12402051030087
-2. Fasmalai El sabbiq: 12402051050146
+2. Fasmalia El sabbiq: 12402051050146
 3. Khadizah Hasna Tsabita: 12402051030099
 
 ## Program Studi Ilmu Perpustakaan
@@ -48,13 +48,13 @@ Segala puji bagi Allah SWT yang telah memberikan kami kemudahan sehingga kami da
 5. Untuk menelaah dan menjelaskan vektor dasar keamanan siber bagi perpustakaan digital atau arsip digital.
 6. Untuk menjelaskan faktor yang harus dikembangkan dan ditingkatkan dalam bagi perpustakaan dan arsip digital.
 
-7. # BAB II PEMBAHASAN
+# BAB II PEMBAHASAN
 ## 2.1 Bagaimana evolusi 5 hukum perpustakaan?
 Lima Hukum Ilmu Perpustakaan yang dirumuskan oleh S.R. Ranganathan pada tahun 1928 dan dipublikasikan pada tahun 1931 merupakan landasan filosofis paling berpengaruh dalam dunia perpustakaan. Meskipun telah berusia hampir satu abad, hukum-hukum ini tidak bersifat statis, melainkan terus mengalami transformasi melalui interpretasi ulang oleh para ahli untuk tetap relevan dengan perubahan zaman. Evolusi ini didorong oleh hukum kelima, yang menyatakan bahwa perpustaaan adalah organisme yang berkembang, sebuah kalimat yang menunjukkan bahwa perpustakaan harus mampu beradaptasi dengan lingkungan digital dan teknologi baru agar tidak punah dari "seleksi alam".
 
 Ranganathan secara tidak langsung memberikan gambaran analogi mengenai landasan evolusi hukum tersebut yang dimana terbagi menjadi 3 fase yaitu, masa kanak-kanak, fokus utama adalah pada pertumbuhan fisik, menambah buku,rak, dan luas bangunan agar bisa menampung koleksi yang semakin banyak, lalu masa dewasa pertumbuhan tidak hanya soal ukuran fisik, melainkan soal kualitas hubungan dan partisipasi. Perpustakaan mulai menjadi " tanpa dinding " dan hadir di mana saja melalui perangkat digital.
 era manusia super (era AI/Society 5.0), perpustakaan kini memiliki "otak buatan". ia tidak hanya lagi hanya menyimpan pengetahuan, tetapi secara proaktif memahami kebutuhan penggunanya secara cerdas.
-  ## 2.2 Jelaskan konsep cyrberethic and hubunganya dengan perpustakaan digital
+## 2.2 Jelaskan konsep cyrberethic and hubunganya dengan perpustakaan digital
   Etika keamanan siber (atau cyberethics) adalah bidang studi yang menjadi dsar-dasar etika, hukum, dan teknis untuk menyelaraskan keamanan siber dengan nilaii-nilai dasar kemanusiaan dan hak asasi manusia. Konsep ini mengakui bahwa keamanan siber bukanlah tujuan akhir, melainkan nilai instrumental yang berfungsi sebagai sarana untuk melindungi nilai-nilai yang lebih mendasar, seperti privasi, kesehatan, dan kebebasan.
 
   Empat pilar nilai utama menurut buku etika keamanan siber karya marcus christen etc. yang harus diseimbangkan dalam praktik keamanan siber: 
@@ -62,7 +62,7 @@ era manusia super (era AI/Society 5.0), perpustakaan kini memiliki "otak buatan"
   2. Privasi (Privacy): Hak individu untuk mengontrol informasi mereka dan pelindungan terhadap akses yang tidak sah.
   3. Keadilan (Fairness): Menjamin kesetaraaan akses, non-diskriminasi, dan pencegahan bias dalam algoritma keamanan.
   4. Akuntabilitas (Accountabillity): Transparansi dan tanggung jawab pengambil keputusan (seperti pemerintah dan perusahaan) atas langkah-langkah keamanan yang mereka terapkan.
-  ## 2.3 Jelaskan prinsip dasar keamanan cyber bagi perpustakaan digital dan lembaga arsip digital
+## 2.3 Jelaskan prinsip dasar keamanan cyber bagi perpustakaan digital dan lembaga arsip digital
   Dalam lingkungan kontemporer (terbaru), perpustakaan dan lembaga arsip diklasifikasikan sebagai lembaga epistemik, yang menandakah bahwa tujuan utama mereka untuk memperoleh, menjaga, dan menyebarluaskan pengetahuan secara jujur dan ketidakberpihakan (objektif). Sebagai penjaga kebenerana informasi, lembaga ini harus menerapkan prinsip prinsip keamanan siber yang tidak hanya bersifat teknis, tetapi juga etis.
 
 a.	Dasar Utama Perlindungan Informasi (triad CIA)
@@ -126,6 +126,10 @@ Perkembangan teknologi membawa kemudahan dalam pengelolaan perpustakaan dan arsi
 
 Keamanan siber tidak hanya bersifat teknis, tetapi juga berkaitan dengan nilai etika seperti privasi dan keadilan. Untuk itu, diperlukan peningkatan pada aspek infrastruktur, sumber daya manusia, serta kebijakan agar tercipta sistem informasi yang aman, andal, dan terpercaya di era digital.
 # DAFTAR PUSTAKA
+1. Rayhan, A. (n.d.). Cybersecurity in the digital age: Assessing threats and strengthening defenses. CBECL Group.
+2. Triandari, A. P. (2022). Studi kepustakaan: Keamanan informasi di perpustakaan digital. Visi Pustaka, 24(3). https://doi.org/10.37014/visipustaka.v24i3.3175
+3. Ranganathan, S. R. (1931). Five laws of library science. Madras Library Association.
+4. Christen, M., Gordijn, B., & Loi, M. (Eds.). (2020). The ethics of cybersecurity. Springer. https://doi.org/10.1007/978-3-030-29053-5
 
    
 
