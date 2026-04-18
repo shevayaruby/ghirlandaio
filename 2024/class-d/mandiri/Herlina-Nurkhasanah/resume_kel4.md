@@ -21,11 +21,13 @@ Yaitu ancaman akibat kelalaian karyawan atau karyawan yang tidak mengerti bahwa 
 Yaitu, identitas atau akun karyawan internal dapat di akses oleh pihak eksternal dan disalahgunakan.
 4.	Third-party insiders
 Yaitu ancaman yang berasal dari rekan atau mitra bisnis yang memiliki akses tarhadap data internal namun terbatas. 
+
 Dalam buku The Ethics of Cybersecurity tertulis  bahwa Sebagian besar system pertahanan hanya berfokus pada keamanan proaktif namun, fokus ini sebenarnya tidak cukup karena mustahil mencegah serangan. Teknik proaktif ini dapat digabungkan dengan Teknik reaktif untuk menangani resiko sisa. Terdapat enam pendekatan untuk mengamankan suatu system. 
 Tiga pendekatan proaktif:
 1.	Control preventif untuk memastikan serangan tidak berhasil
 2.	Pencegahan, untuk memastikan kesulitan bagi penyerang dengan membuat sasaran menjadi tidak menarik
 3.	Pengalihan, pihak Perusahaan atau yang diserang dapat mengalihkan penyerangan ke sasaran lain
+
 Tiga pendekatan reaktif
 1.	Control deteksi yang berfokus pada pemberitahuan waktu nyata atau dokumentasi
 2.	Pengendalian mitigasi untuk mengurangi dampak serangan
