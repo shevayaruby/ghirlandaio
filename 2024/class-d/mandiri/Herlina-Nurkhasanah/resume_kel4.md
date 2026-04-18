@@ -1,4 +1,4 @@
-# Resume Materi Hubungan Sains dan Agama
+# Resume Materi Etika Keamanan Siber Pada Perpustakaan dan Lembaga Arsip Digital: Tantangan dan Strategis.
 ## Nama: Herlina Nurkhasanah
 ## NIM: 12402051030101
 ## Mata Kuliah: Perpustakaan dan Arsip Digital
