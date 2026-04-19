@@ -25,3 +25,14 @@ Permasalahan hak cipta dalam perpustakaan digital masih menjadi tantangan karena
 
 ## Kesimpulan
 Kehadiran sistem perpustakaan digital memang memberikan kemudahan akses informasi tanpa batasan ruang dan waktu bagi para penggunanya. Namun, transformasi ini diiringi oleh berbagai tantangan dan kelemahan yang kompleks. Dalam penerapannya, perpustakaan harus berhadapan dengan besarnya beban biaya awal untuk infrastruktur, minimnya keterampilan teknologi di kalangan pustakawan dan pemustaka, serta ketergantungan mutlak pada ketersediaan internet. Di samping itu, pengelola perpustakaan juga memiliki risiko tinggi terhadap pelanggaran hak cipta, ancaman kejahatan siber (cybercrime), dan kerusakan data akibat usangnya perangkat teknologi secara cepat. Oleh karena itu, dibutuhkan strategi yang tepat, perencanaan anggaran yang cermat, serta peningkatan kapasitas SDM agar perpustakaan digital dapat beroperasi secara aman dan maksimal.
+
+## Daftar Pustaka
+Suriadi, Herman, Erlisa, J. (2024). INOVASI TEKNOLOGI PERPUSTAKAAN UNTUK MENDORONG LITERASI INFORMASI PEMUSTAKA.
+
+Husna, N. (2018). PERBEDAAN ANTARA PERPUSTAKAAN KONVENSIONAL, DIGITAL, HIBRIDA DAN BOOKLESS. Al-Kuttab : Jurnal Perpustakaan dan Informasi, 5(1), 15. https://doi.org/10.24952/ktb.v5i1.824
+
+Winastwan, R. E., & Fatwa, A. N. (2021). PELUANG DAN TANTANGAN PERPUSTAKAAN DIGITAL DI MASA PANDEMI COVID-19: SEBUAH TINJAUAN LITERATUR. Publication Library and Information Science, 5(2), 1–15. https://doi.org/10.24269/pls.v5i2.4190
+
+Supriyono. (2023). TRANSFORMASI PERPUSTAKAN DIGITAL; KEBUTUHAN DAN TANTANGAN. Literasiana: Jurnal Literasi Informasi Perpustakaan, 1(1), 17-28.
+
+Budi, N. W. S. (2021). OPTIMALISASI LAYANAN DIGITAL DIMASA NEW NORMAL. ACARYA PUSTAKA: JURNAL ILMIAH PERPUSTAKAAN DAN INFORMASI, 8(1).
