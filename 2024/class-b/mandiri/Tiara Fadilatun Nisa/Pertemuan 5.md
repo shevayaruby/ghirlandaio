@@ -25,4 +25,4 @@ Putri, C. A., Anwar, R. K., Amar, S. C. D., & Rukmana, E. N. (2024). *Keamanan i
 
 Salmi Addin, H., Anggraini, H., Yenti, H. N. R. P., Sari, F. W., & Hidayat, I. (2024). *Strategi pengembangan koleksi perpustakaan digital*. Media Informasi, 33(1), 88–95.
 
-Wulandari, D. S., & Ismaya. (2023). *Pengelolaan arsip elektronik di era digital*. IKOMIK: Jurnal Ilmu Komunikasi dan Informasi, 3(2), 39–43. 
+Wulandari, D. S., & Ismaya. (2023). *Pengelolaan arsip elektronik di era digital*. IKOMIK: Jurnal Ilmu Komunikasi dan Informasi, 3(2), 39–43.
