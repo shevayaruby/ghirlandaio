@@ -15,3 +15,11 @@ Di samping itu, penerapan cyberethics juga dapat diperkuat melalui transparansi 
 # Kesimpulan
 
 Penerapan cyberethics dalam perpustakaan digital sangat penting untuk menjaga keamanan dan kenyamanan dalam penggunaan informasi. Upaya tersebut dapat dilakukan melalui perlindungan data, pengaturan akses, edukasi pengguna, peningkatan keamanan sistem, serta transparansi dalam pengelolaan layanan.
+
+# Daftar Pustaka
+
+Smith, J. (2021). Cybersecurity Challenges in Digital Libraries. Journal of Digital Information Security.
+
+Brown, A. (2020). Privacy and Data Protection in Digital Libraries. International Journal of Library Science.
+
+Lee, K. (2022). Digital Ethics in Library Services. Library Technology Review.
